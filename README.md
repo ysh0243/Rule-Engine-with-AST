@@ -2,12 +2,13 @@
 Overview
 This project implements a simple 3-tier rule engine that determines user eligibility based on attributes like age, department, salary, experience, etc. It uses an Abstract Syntax Tree (AST) to represent conditional rules and allows for dynamic creation, combination, and modification of rules.
 
-<img width="1440" alt="Screenshot 2024-10-20 at 12 08 36 PM" src="https://github.com/user-attachments/assets/ca48ffa0-ec86-4616-9a2e-aa30e0034cc6">
+
 <img width="1398" alt="Screenshot 2024-10-20 at 12 02 06 PM" src="https://github.com/user-attachments/assets/3a4a0b38-539b-4fbf-bedf-67be066e88b6">
 <img width="1398" alt="Screenshot 2024-10-20 at 12 01 30 PM" src="https://github.com/user-attachments/assets/e38a6fb2-5a56-4f03-a580-7b443ecb45fe">
 <img width="1398" alt="Screenshot 2024-10-20 at 11 59 53 AM" src="https://github.com/user-attachments/assets/33e203d8-2d66-44a0-8849-e141c6e0c65d">
 <img width="1398" alt="Screenshot 2024-10-20 at 11 58 30 AM" src="https://github.com/user-attachments/assets/64c4df0d-93b4-40e6-be72-a97d1679f91d">
 <img width="1398" alt="Screenshot 2024-10-20 at 11 52 20 AM" src="https://github.com/user-attachments/assets/764b8243-4d13-404f-95bf-be996ecb8ced">
+<img width="1440" alt="Screenshot 2024-10-20 at 12 08 36 PM" src="https://github.com/user-attachments/assets/ca48ffa0-ec86-4616-9a2e-aa30e0034cc6">
 # Objective
 Parse rules from strings into an AST structure.
 Store the rules and AST nodes in a relational database.
